@@ -1,0 +1,42 @@
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+.heading{
+
+        position: sticky;
+   width: 100%;
+    color: whitesmoke;
+    height: 80px;
+    text-align: center;
+    font-size: 40;
+    font-style: italic;
+     font-weight: 1000;
+
+}
+
+.heading2{
+    
+    position: sticky;
+    width: 100%;
+     color: rgb(234, 7, 7);
+     height: 70px;
+     text-align: center;
+     font-size: 35;
+     font-style: italic;
+      font-weight: 1000;
+ 
+}
+
+.o{
+    
+    font-size: 25;
+    font-style: italic;
+     font-weight: 700;
+}
